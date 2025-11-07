@@ -31,6 +31,10 @@ body {
     display: flex;
 }
 
+.emaildef{
+    color: #d9d9d9c6;
+    text-decoration: none;
+}
 .navbar h1 {
     font-weight: 900;
     font-size: 25px;
